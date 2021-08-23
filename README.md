@@ -32,13 +32,13 @@ Output:\
 Input Format
 
 The first line contains an integer, n, denoting the number of commands.\
-Each line i of the n subsequent lines contains one of the commands described above.\
+Each line i of the n subsequent lines contains one of the commands described above.
 
 Constraints\
-The elements added to the list must be integers.\
+The elements added to the list must be integers.
 
 Output Format\
-For each command of type print, print the list on a new line.\
+For each command of type print, print the list on a new line.
 
 Sample Input 0\
 

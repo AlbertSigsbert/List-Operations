@@ -40,7 +40,7 @@ The elements added to the list must be integers.
 Output Format\
 For each command of type print, print the list on a new line.
 
-Sample Input 0\
+Sample Input 0
 
 12\
 insert 0 5\

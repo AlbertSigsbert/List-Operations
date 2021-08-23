@@ -13,6 +13,7 @@ Consider a list (list = []). You can perform the following commands:
  7. reverse: Reverse the list.
  
 Initialize your list and read in the value of n followed by n lines of commands where each command will be of the 7 types listed above.
+
 Iterate through each command in order and perform the corresponding operation on your list.
 
 Example\
@@ -59,4 +60,4 @@ print
 Sample Output 0\
 [6, 5, 10]\
 [1, 5, 9, 10]\
-[9, 5, 1]\
+[9, 5, 1]
